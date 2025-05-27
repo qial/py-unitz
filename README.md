@@ -11,9 +11,7 @@ A simple and test-friendly unit conversion library for Python 🧪📏
 
 ## Install
 
-```bash
-pip install unitz
-```
+For now you must install from source.
 
 ## Usage
 
